@@ -1,0 +1,132 @@
+
+D2_Boss.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Arm_L1
+  rotate: false
+  xy: 625, 724
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+Arm_L2
+  rotate: false
+  xy: 726, 802
+  size: 143, 221
+  orig: 143, 221
+  offset: 0, 0
+  index: -1
+Arm_R1
+  rotate: false
+  xy: 372, 687
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+Arm_R2
+  rotate: false
+  xy: 839, 800
+  size: 105, 222
+  orig: 105, 222
+  offset: 0, 0
+  index: -1
+Arm_R2_01
+  rotate: 270
+  xy: 445, 684
+  size: 153, 162
+  orig: 153, 162
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 788
+  size: 261, 234
+  orig: 261, 234
+  offset: 0, 0
+  index: -1
+Head_Ibara
+  rotate: false
+  xy: 265, 793
+  size: 182, 229
+  orig: 182, 229
+  offset: 0, 0
+  index: -1
+Kamen
+  rotate: true
+  xy: 449, 839
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+Leg_L1
+  rotate: 270
+  xy: 938, 828
+  size: 106, 82
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+Leg_L2
+  rotate: 270
+  xy: 797, 708
+  size: 127, 201
+  orig: 127, 201
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: false
+  xy: 911, 889
+  size: 63, 75
+  orig: 63, 82
+  offset: 0, 7
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 557, 760
+  size: 105, 222
+  orig: 105, 222
+  offset: 0, 0
+  index: -1
+Yure1
+  rotate: true
+  xy: 278, 721
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+Yure2
+  rotate: 270
+  xy: 2, 680
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+Yure3
+  rotate: false
+  xy: 941, 933
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+Yure4
+  rotate: false
+  xy: 931, 719
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+Yure5
+  rotate: 270
+  xy: 106, 670
+  size: 148, 179
+  orig: 148, 179
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 595, 852
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1

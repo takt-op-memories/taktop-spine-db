@@ -1,0 +1,13 @@
+
+takt_touxiang.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+tokt_map_1
+  rotate: false
+  xy: 2, 2
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+art_min_100501_Spine.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+ArmL1
+  rotate: true
+  xy: 441, 127
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+ArmL2
+  rotate: true
+  xy: 233, 118
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+ArmR1
+  rotate: true
+  xy: 2, 94
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+ArmR2
+  rotate: true
+  xy: 731, 124
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+Body
+  rotate: 270
+  xy: 573, 280
+  size: 145, 218
+  orig: 145, 218
+  offset: 0, 0
+  index: -1
+Body_Accessories_shoulder
+  rotate: false
+  xy: 857, 142
+  size: 165, 57
+  orig: 165, 57
+  offset: 0, 0
+  index: -1
+Body_Accessories_tail
+  rotate: false
+  xy: 2, 740
+  size: 264, 282
+  orig: 264, 282
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 690, 61
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: true
+  xy: 2, 673
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 93, 56
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 2, 54
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+LegL1
+  rotate: true
+  xy: 2, 227
+  size: 91, 148
+  orig: 91, 148
+  offset: 0, 0
+  index: -1
+LegL1_B
+  rotate: true
+  xy: 2, 168
+  size: 56, 134
+  orig: 56, 134
+  offset: 0, 0
+  index: -1
+LegL2
+  rotate: true
+  xy: 788, 193
+  size: 66, 158
+  orig: 66, 158
+  offset: 0, 0
+  index: -1
+LegL2_B
+  rotate: true
+  xy: 391, 177
+  size: 78, 134
+  orig: 78, 134
+  offset: 0, 0
+  index: -1
+LegR1
+  rotate: true
+  xy: 640, 205
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+LegR1_B
+  rotate: true
+  xy: 93, 104
+  size: 60, 135
+  orig: 60, 135
+  offset: 0, 0
+  index: -1
+LegR2
+  rotate: false
+  xy: 960, 221
+  size: 59, 127
+  orig: 59, 127
+  offset: 0, 0
+  index: -1
+LegR2_B
+  rotate: false
+  xy: 151, 167
+  size: 80, 134
+  orig: 80, 134
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 233, 179
+  size: 140, 64
+  orig: 140, 64
+  offset: 0, 0
+  index: -1
+Ribon
+  rotate: false
+  xy: 441, 79
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 788, 261
+  size: 170, 87
+  orig: 170, 87
+  offset: 0, 0
+  index: -1
+WaistArmor _B
+  rotate: 180
+  xy: 2, 497
+  size: 292, 241
+  orig: 292, 241
+  offset: 0, 0
+  index: -1
+fenjing3_1
+  rotate: false
+  xy: 300, 61
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+fenjing3_11
+  rotate: false
+  xy: 300, 61
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+fenjing3_10
+  rotate: true
+  xy: 731, 81
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+fenjing3_12
+  rotate: false
+  xy: 840, 93
+  size: 122, 47
+  orig: 122, 47
+  offset: 0, 0
+  index: -1
+fenjing3_13
+  rotate: true
+  xy: 46, 58
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+fenjing3_13_1
+  rotate: false
+  xy: 989, 754
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+fenjing3_14
+  rotate: false
+  xy: 345, 56
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+fenjing3_16
+  rotate: true
+  xy: 391, 257
+  size: 129, 176
+  orig: 129, 176
+  offset: 0, 0
+  index: -1
+fenjing3_17
+  rotate: true
+  xy: 573, 427
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+fenjing3_18
+  rotate: true
+  xy: 526, 102
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+fenjing3_19
+  rotate: false
+  xy: 989, 779
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+fenjing3_2
+  rotate: false
+  xy: 989, 820
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+fenjing3_20
+  rotate: true
+  xy: 622, 70
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+fenjing3_21
+  rotate: true
+  xy: 809, 484
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+fenjing3_22
+  rotate: false
+  xy: 295, 520
+  size: 276, 195
+  orig: 276, 204
+  offset: 0, 9
+  index: -1
+fenjing3_23
+  rotate: true
+  xy: 526, 54
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+fenjing3_24
+  rotate: false
+  xy: 226, 244
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1
+fenjing3_25
+  rotate: true
+  xy: 809, 350
+  size: 132, 175
+  orig: 132, 175
+  offset: 0, 0
+  index: -1
+fenjing3_26
+  rotate: true
+  xy: 152, 79
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+fenjing3_27
+  rotate: true
+  xy: 638, 122
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+fenjing3_28
+  rotate: true
+  xy: 526, 177
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+fenjing3_29
+  rotate: true
+  xy: 718, 658
+  size: 365, 163
+  orig: 365, 163
+  offset: 0, 0
+  index: -1
+fenjing3_3
+  rotate: false
+  xy: 356, 93
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+fenjing3_30
+  rotate: false
+  xy: 882, 866
+  size: 120, 156
+  orig: 120, 156
+  offset: 0, 0
+  index: -1
+fenjing3_31
+  rotate: false
+  xy: 247, 387
+  size: 324, 127
+  orig: 324, 127
+  offset: 0, 0
+  index: -1
+fenjing3_32
+  rotate: true
+  xy: 959, 516
+  size: 168, 49
+  orig: 168, 49
+  offset: 0, 0
+  index: -1
+fenjing3_33
+  rotate: true
+  xy: 573, 660
+  size: 58, 132
+  orig: 58, 132
+  offset: 0, 0
+  index: -1
+fenjing3_34
+  rotate: false
+  xy: 2, 319
+  size: 222, 176
+  orig: 222, 182
+  offset: 0, 0
+  index: -1
+fenjing3_35
+  rotate: true
+  xy: 268, 717
+  size: 306, 226
+  orig: 306, 226
+  offset: 0, 0
+  index: -1
+fenjing3_4
+  rotate: true
+  xy: 986, 399
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+fenjing3_5
+  rotate: false
+  xy: 242, 61
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+fenjing3_6
+  rotate: false
+  xy: 967, 81
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+fenjing3_7
+  rotate: false
+  xy: 986, 353
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+fenjing3_8
+  rotate: false
+  xy: 882, 686
+  size: 105, 178
+  orig: 105, 178
+  offset: 0, 0
+  index: -1
+fenjing3_9
+  rotate: true
+  xy: 496, 720
+  size: 302, 220
+  orig: 302, 220
+  offset: 0, 0
+  index: -1

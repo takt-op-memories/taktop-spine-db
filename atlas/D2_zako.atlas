@@ -1,0 +1,90 @@
+
+D2_zako.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 327, 244
+  size: 143, 153
+  orig: 143, 153
+  offset: 0, 0
+  index: -1
+Ibara1_Back1
+  rotate: false
+  xy: 2, 373
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+Ibara1_Front
+  rotate: false
+  xy: 338, 388
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+Ibara2_Front
+  rotate: false
+  xy: 177, 211
+  size: 180, 45
+  orig: 180, 52
+  offset: 0, 0
+  index: -1
+Kamen
+  rotate: false
+  xy: 102, 293
+  size: 135, 73
+  orig: 135, 73
+  offset: 0, 0
+  index: -1
+Yure1
+  rotate: false
+  xy: 431, 293
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+Yure2
+  rotate: true
+  xy: 43, 187
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+Yure3
+  rotate: false
+  xy: 286, 233
+  size: 53, 122
+  orig: 53, 122
+  offset: 0, 0
+  index: -1
+Yure4
+  rotate: 270
+  xy: 376, 195
+  size: 82, 134
+  orig: 82, 134
+  offset: 0, 0
+  index: -1
+Yure_Front
+  rotate: 270
+  xy: 152, 259
+  size: 83, 138
+  orig: 83, 138
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 184, 368
+  size: 142, 153
+  orig: 142, 153
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 2, 246
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1

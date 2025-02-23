@@ -1,0 +1,272 @@
+
+Peacock.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 211
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 685, 538
+  size: 120, 221
+  orig: 120, 221
+  offset: 0, 0
+  index: -1
+Stone
+  rotate: false
+  xy: 2, 785
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Tail_01
+  rotate: true
+  xy: 354, 584
+  size: 398, 210
+  orig: 398, 210
+  offset: 0, 0
+  index: -1
+Tail_02
+  rotate: true
+  xy: 567, 40
+  size: 513, 210
+  orig: 513, 210
+  offset: 0, 0
+  index: -1
+Tail_03_1
+  rotate: 270
+  xy: 661, 7
+  size: 318, 173
+  orig: 318, 173
+  offset: 0, 0
+  index: -1
+Tail_03_2
+  rotate: true
+  xy: 823, 400
+  size: 305, 138
+  orig: 305, 138
+  offset: 0, 0
+  index: -1
+Tail_03_3
+  rotate: true
+  xy: 837, 637
+  size: 360, 152
+  orig: 360, 152
+  offset: 0, 0
+  index: -1
+Wing01_L
+  rotate: false
+  xy: 627, 597
+  size: 141, 391
+  orig: 141, 391
+  offset: 0, 0
+  index: -1
+Wing01_R
+  rotate: 180
+  xy: 109, 182
+  size: 338, 401
+  orig: 338, 401
+  offset: 0, 0
+  index: -1
+Wing02_R
+  rotate: 180
+  xy: 22, 12
+  size: 409, 249
+  orig: 409, 249
+  offset: 0, 0
+  index: -1
+Wing03_L
+  rotate: 180
+  xy: 512, 402
+  size: 149, 434
+  orig: 149, 434
+  offset: 0, 0
+  index: -1
+Wing03_R
+  rotate: false
+  xy: 2, 562
+  size: 302, 434
+  orig: 302, 434
+  offset: 0, 0
+  index: -1
+Wing04_L
+  rotate: false
+  xy: 144, 432
+  size: 269, 372
+  orig: 269, 372
+  offset: 0, 0
+  index: -1
+Wing04_R
+  rotate: true
+  xy: 777, 349
+  size: 287, 122
+  orig: 287, 122
+  offset: 0, 0
+  index: -1
+body_skirt
+  rotate: true
+  xy: 16, 342
+  size: 267, 284
+  orig: 267, 284
+  offset: 0, 0
+  index: -1
+body_skirt_acce01
+  rotate: true
+  xy: 708, 61
+  size: 250, 272
+  orig: 250, 272
+  offset: 0, 0
+  index: -1
+body_skirt_acce02
+  rotate: false
+  xy: 881, 26
+  size: 103, 281
+  orig: 103, 281
+  offset: 0, 0
+  index: -1
+body_under
+  rotate: 270
+  xy: 414, 101
+  size: 306, 154
+  orig: 306, 154
+  offset: 0, 0
+  index: -1
+bodybeak_01
+  rotate: false
+  xy: 562, 954
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+bodybeak_02
+  rotate: false
+  xy: 248, 443
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+bodymask
+  rotate: false
+  xy: 900, 683
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+bodyveil_1
+  rotate: false
+  xy: 415, 661
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+bodyveil_2
+  rotate: false
+  xy: 800, 277
+  size: 177, 163
+  orig: 177, 163
+  offset: 0, 0
+  index: -1
+bodywing_01_L
+  rotate: false
+  xy: 297, 832
+  size: 71, 164
+  orig: 71, 164
+  offset: 0, 0
+  index: -1
+bodywing_01_R
+  rotate: false
+  xy: 764, 757
+  size: 183, 193
+  orig: 183, 193
+  offset: 0, 0
+  index: -1
+bodywing_02_L_1
+  rotate: false
+  xy: 2, 159
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+bodywing_02_L_2
+  rotate: false
+  xy: 216, 495
+  size: 87, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+bodywing_02_L_3
+  rotate: false
+  xy: 433, 385
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+bodywing_02_L_4
+  rotate: false
+  xy: 38, 814
+  size: 73, 138
+  orig: 73, 138
+  offset: 0, 0
+  index: -1
+bodywing_02_R_1
+  rotate: false
+  xy: 363, 12
+  size: 198, 74
+  orig: 198, 74
+  offset: 0, 0
+  index: -1
+bodywing_02_R_2
+  rotate: true
+  xy: 481, 802
+  size: 194, 129
+  orig: 194, 129
+  offset: 0, 0
+  index: -1
+bodywing_02_R_3
+  rotate: 270
+  xy: 820, 4
+  size: 184, 101
+  orig: 184, 101
+  offset: 0, 0
+  index: -1
+bodywing_02_R_4
+  rotate: 270
+  xy: 2, 839
+  size: 157, 132
+  orig: 157, 133
+  offset: 0, 0
+  index: -1
+foot_L_1
+  rotate: false
+  xy: 808, 697
+  size: 77, 177
+  orig: 77, 177
+  offset: 0, 0
+  index: -1
+foot_L_2
+  rotate: false
+  xy: 447, 487
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+foot_R_1
+  rotate: false
+  xy: 570, 234
+  size: 137, 223
+  orig: 137, 223
+  offset: 0, 0
+  index: -1
+foot_R_2
+  rotate: false
+  xy: 205, 768
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1

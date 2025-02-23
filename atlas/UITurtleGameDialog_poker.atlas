@@ -1,0 +1,69 @@
+
+UITurtleGameDialog_poker.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 676
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 339
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 2
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 228, 676
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 228, 339
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: false
+  xy: 228, 2
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 454, 676
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/cwg_card_back1_01
+  rotate: false
+  xy: 454, 339
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1
+images/cwg_card_joker1_01
+  rotate: false
+  xy: 454, 2
+  size: 224, 335
+  orig: 224, 335
+  offset: 0, 0
+  index: -1

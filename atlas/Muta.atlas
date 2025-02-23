@@ -1,0 +1,202 @@
+
+Muta.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1489
+  size: 557, 557
+  orig: 745, 733
+  offset: 87, 88
+  index: -1
+Body
+  rotate: false
+  xy: 1120, 1490
+  size: 557, 557
+  orig: 557, 557
+  offset: 0, 0
+  index: -1
+Body_Shadow
+  rotate: 180
+  xy: 629, 1193
+  size: 554, 451
+  orig: 554, 451
+  offset: 0, 0
+  index: -1
+HL
+  rotate: false
+  xy: 1593, 1970
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+Horn_dr
+  rotate: false
+  xy: 387, 1319
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+Horn_dra
+  rotate: true
+  xy: 447, 1324
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+Horn_ul
+  rotate: false
+  xy: 1888, 1246
+  size: 158, 162
+  orig: 158, 167
+  offset: 0, 5
+  index: -1
+Horn_ula
+  rotate: 270
+  xy: 1878, 1039
+  size: 160, 169
+  orig: 160, 169
+  offset: 0, 0
+  index: -1
+Line_l
+  rotate: true
+  xy: 2, 1322
+  size: 165, 385
+  orig: 165, 514
+  offset: 0, 60
+  index: -1
+Line_r
+  rotate: true
+  xy: 1185, 1309
+  size: 179, 373
+  orig: 179, 500
+  offset: 0, 67
+  index: -1
+Line_u
+  rotate: true
+  xy: 1678, 1646
+  size: 402, 287
+  orig: 556, 287
+  offset: 74, 0
+  index: -1
+duiyixa
+  rotate: false
+  xy: 561, 1489
+  size: 557, 557
+  orig: 745, 733
+  offset: 87, 88
+  index: -1
+face
+  rotate: 180
+  xy: 1610, 1388
+  size: 436, 258
+  orig: 436, 259
+  offset: 0, 1
+  index: -1
+face_anger
+  rotate: false
+  xy: 358, 1062
+  size: 295, 112
+  orig: 296, 112
+  offset: 0, 0
+  index: -1
+face_blink
+  rotate: false
+  xy: 2, 1107
+  size: 355, 64
+  orig: 355, 64
+  offset: 0, 0
+  index: -1
+face_blink2
+  rotate: true
+  xy: 1967, 1691
+  size: 355, 64
+  orig: 355, 64
+  offset: 0, 0
+  index: -1
+face_calling
+  rotate: false
+  xy: 1171, 1188
+  size: 386, 93
+  orig: 386, 93
+  offset: 0, 0
+  index: -1
+face_calling2
+  rotate: false
+  xy: 1559, 1135
+  size: 386, 93
+  orig: 386, 93
+  offset: 0, 0
+  index: -1
+face_cross
+  rotate: false
+  xy: 655, 1084
+  size: 311, 107
+  orig: 311, 107
+  offset: 0, 0
+  index: -1
+face_normal
+  rotate: 180
+  xy: 1304, 1019
+  size: 285, 116
+  orig: 288, 116
+  offset: 1, 0
+  index: -1
+face_play
+  rotate: false
+  xy: 695, 1379
+  size: 314, 108
+  orig: 314, 108
+  offset: 0, 0
+  index: -1
+face_play2
+  rotate: false
+  xy: 338, 1185
+  size: 314, 108
+  orig: 314, 108
+  offset: 0, 0
+  index: -1
+face_sad
+  rotate: false
+  xy: 1586, 1001
+  size: 292, 111
+  orig: 296, 115
+  offset: 2, 0
+  index: -1
+face_search
+  rotate: false
+  xy: 2, 1172
+  size: 335, 149
+  orig: 335, 149
+  offset: 0, 0
+  index: -1
+face_searchb
+  rotate: false
+  xy: 744, 1327
+  size: 188, 52
+  orig: 336, 150
+  offset: 16, 4
+  index: -1
+face_smile
+  rotate: false
+  xy: 968, 1107
+  size: 338, 80
+  orig: 338, 80
+  offset: 0, 0
+  index: -1
+face_surprise
+  rotate: false
+  xy: 1559, 1230
+  size: 326, 155
+  orig: 326, 155
+  offset: 0, 0
+  index: -1
+mark
+  rotate: true
+  xy: 407, 1007
+  size: 101, 115
+  orig: 101, 115
+  offset: 0, 0
+  index: -1

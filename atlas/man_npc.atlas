@@ -1,0 +1,125 @@
+
+man_npc.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 772, 192
+  size: 252, 217
+  orig: 252, 217
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 701, 408
+  size: 323, 488
+  orig: 323, 488
+  offset: 0, 0
+  index: -1
+body1
+  rotate: 180
+  xy: 0, 390
+  size: 494, 634
+  orig: 494, 634
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 146, 124
+  size: 126, 75
+  orig: 126, 75
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 0, 313
+  size: 78, 275
+  orig: 78, 275
+  offset: 0, 0
+  index: -1
+body4
+  rotate: false
+  xy: 709, 903
+  size: 191, 121
+  orig: 191, 121
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 441, 176
+  size: 296, 336
+  orig: 297, 391
+  offset: 0, 54
+  index: -1
+hair1
+  rotate: true
+  xy: 441, 434
+  size: 101, 177
+  orig: 101, 177
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 187, 194
+  size: 174, 267
+  orig: 174, 267
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 321, 613
+  size: 71, 176
+  orig: 71, 176
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 0, 928
+  size: 97, 178
+  orig: 97, 178
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: 270
+  xy: 668, 128
+  size: 108, 231
+  orig: 108, 231
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 925, 390
+  size: 99, 256
+  orig: 99, 256
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: true
+  xy: 272, 102
+  size: 124, 219
+  orig: 124, 219
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: true
+  xy: 803, 106
+  size: 62, 221
+  orig: 62, 221
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 392, 535
+  size: 489, 317
+  orig: 491, 319
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 0, 156
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
