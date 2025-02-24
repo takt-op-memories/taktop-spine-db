@@ -15,10 +15,10 @@ permissions:
 
 jobs:
   approve:
-    if: |
-      (github.event.pull_request.user.login == github.repository_owner
-      || github.event.pull_request.user.login == 'R-data91')
-      && ! github.event.pull_request.draft
+    # if: |
+    #   (github.event.pull_request.user.login == github.repository_owner
+    #   || github.event.pull_request.user.login == 'R-data91')
+    #   && ! github.event.pull_request.draft
     runs-on: ubuntu-latest
     steps:
       - uses: hmarr/auto-approve-action@v3
