@@ -6,15 +6,19 @@ on:
       - reopened
       - synchronize
       - ready_for_review
+      - labeled
+  workflow_dispatch:
+
 jobs:
   approve:
     if: |
-      github.event.pull_request.user.login == github.repository_owner
-      || github.event.pull_request.user.login == 'R-data91'
+      (github.event.pull_request.user.login == github.repository_owner
+      || github.event.pull_request.user.login == 'R-data91')
       && ! github.event.pull_request.draft
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+      contents: read
     steps:
       - uses: hmarr/auto-approve-action@v3
         with:
