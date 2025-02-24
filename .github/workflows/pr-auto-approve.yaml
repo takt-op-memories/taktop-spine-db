@@ -9,6 +9,10 @@ on:
       - labeled
   workflow_dispatch:
 
+permissions:
+  pull-requests: write
+  contents: read
+
 jobs:
   approve:
     if: |
@@ -16,10 +20,7 @@ jobs:
       || github.event.pull_request.user.login == 'R-data91')
       && ! github.event.pull_request.draft
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
-      contents: read
     steps:
       - uses: hmarr/auto-approve-action@v3
         with:
-            github-token: ${{ secrets.AUTO_APPROVE_PAT }}
+            github-token: ${{ github.token }}
