@@ -1,0 +1,1392 @@
+
+Jupiter_ADV.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+01_normal mouth close
+  rotate: false
+  xy: 1124, 1281
+  size: 79, 32
+  orig: 80, 38
+  offset: 0, 6
+  index: -1
+02_neutral_mouth close
+  rotate: false
+  xy: 714, 1492
+  size: 74, 25
+  orig: 74, 36
+  offset: 0, 11
+  index: -1
+02_neutral_mouth open
+  rotate: false
+  xy: 984, 1602
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+03-06_joy_mouth_b
+  rotate: false
+  xy: 950, 620
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+03-06_joy_mouth_u
+  rotate: false
+  xy: 1726, 1007
+  size: 117, 43
+  orig: 127, 44
+  offset: 0, 0
+  index: -1
+03-06_joy_tooth
+  rotate: false
+  xy: 868, 1466
+  size: 88, 20
+  orig: 88, 20
+  offset: 0, 0
+  index: -1
+04_anger_mouth_close
+  rotate: false
+  xy: 987, 2006
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+04_anger_mouth_open
+  rotate: false
+  xy: 398, 528
+  size: 84, 59
+  orig: 84, 64
+  offset: 0, 5
+  index: -1
+05_sad_mouth close
+  rotate: false
+  xy: 595, 2036
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+05_sad_mouth open
+  rotate: false
+  xy: 1310, 2032
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+07_shy_mouth_close
+  rotate: false
+  xy: 1557, 2030
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+07_shy_mouth_open
+  rotate: false
+  xy: 647, 1519
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+08_koyu A_mouth_b
+  rotate: false
+  xy: 1890, 1136
+  size: 104, 59
+  orig: 104, 59
+  offset: 0, 0
+  index: -1
+08_koyu A_mouth_close
+  rotate: false
+  xy: 284, 869
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+08_koyu A_mouth_open
+  rotate: false
+  xy: 1606, 477
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+08_koyu A_mouth_u
+  rotate: false
+  xy: 647, 1979
+  size: 116, 68
+  orig: 116, 69
+  offset: 0, 1
+  index: -1
+09_motion A'_mouth
+  rotate: false
+  xy: 96, 1208
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+10_surprise_mouth close
+  rotate: false
+  xy: 1829, 1385
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+10_surprise_mouth open
+  rotate: false
+  xy: 1428, 1408
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+11_trouble_mouth close
+  rotate: false
+  xy: 1237, 2035
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+11_trouble_mouth open
+  rotate: false
+  xy: 1003, 1989
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+12_koyuu B_mouth close
+  rotate: false
+  xy: 1415, 2032
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+12_koyuu B_mouth open
+  rotate: false
+  xy: 314, 636
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+13_amazed_mouth open
+  rotate: false
+  xy: 1639, 1831
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Acce neck
+  rotate: false
+  xy: 1742, 1982
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Ahoge_b
+  rotate: false
+  xy: 1845, 990
+  size: 201, 117
+  orig: 202, 117
+  offset: 0, 0
+  index: -1
+Ahoge_f
+  rotate: false
+  xy: 1564, 37
+  size: 143, 133
+  orig: 143, 133
+  offset: 0, 0
+  index: -1
+Arm Kyoukin_R
+  rotate: false
+  xy: 8, 1049
+  size: 89, 210
+  orig: 89, 210
+  offset: 0, 0
+  index: -1
+Arm daienkin_R
+  rotate: true
+  xy: 1020, 157
+  size: 92, 228
+  orig: 92, 228
+  offset: 0, 0
+  index: -1
+Arm gold_b_R
+  rotate: false
+  xy: 1273, 2000
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Arm hijiline A
+  rotate: false
+  xy: 1818, 1551
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+Arm hijiline B
+  rotate: false
+  xy: 1131, 1588
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+Arm hojo1_L
+  rotate: false
+  xy: 2010, 1617
+  size: 36, 91
+  orig: 36, 96
+  offset: 0, 5
+  index: -1
+Arm hojo2_L
+  rotate: true
+  xy: 232, 186
+  size: 101, 177
+  orig: 101, 177
+  offset: 0, 0
+  index: -1
+Arm hojo_R
+  rotate: true
+  xy: 814, 264
+  size: 136, 188
+  orig: 136, 189
+  offset: 0, 1
+  index: -1
+Arm ring shadow_L
+  rotate: false
+  xy: 264, 1234
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Arm ring shadow_R
+  rotate: false
+  xy: 1953, 1693
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+Arm sankakukin_R
+  rotate: true
+  xy: 1482, 1110
+  size: 93, 136
+  orig: 94, 148
+  offset: 1, 11
+  index: -1
+Arm udegumi support_L
+  rotate: false
+  xy: 1735, 1935
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Arm1 black_L
+  rotate: true
+  xy: 1733, 214
+  size: 95, 189
+  orig: 95, 189
+  offset: 0, 0
+  index: -1
+Arm1 black_R
+  rotate: 180
+  xy: 1890, 1432
+  size: 155, 189
+  orig: 155, 189
+  offset: 0, 0
+  index: -1
+Arm1 gold_R
+  rotate: false
+  xy: 343, 83
+  size: 148, 101
+  orig: 148, 101
+  offset: 0, 0
+  index: -1
+Arm1 ring_R
+  rotate: 270
+  xy: 159, 101
+  size: 147, 186
+  orig: 147, 186
+  offset: 0, 0
+  index: -1
+Arm1 skin_L
+  rotate: true
+  xy: 1543, 562
+  size: 121, 286
+  orig: 121, 286
+  offset: 0, 0
+  index: -1
+Arm1 skin_R
+  rotate: true
+  xy: 1343, 301
+  size: 130, 247
+  orig: 130, 247
+  offset: 0, 0
+  index: -1
+Arm2 A_R
+  rotate: 270
+  xy: 587, 692
+  size: 179, 394
+  orig: 179, 394
+  offset: 0, 0
+  index: -1
+Arm2 B_R
+  rotate: 270
+  xy: 304, 430
+  size: 162, 379
+  orig: 162, 379
+  offset: 0, 0
+  index: -1
+Arm2 meido parts_R
+  rotate: false
+  xy: 916, 1941
+  size: 94, 106
+  orig: 95, 108
+  offset: 1, 2
+  index: -1
+Arm2-1 A_L
+  rotate: 270
+  xy: 981, 789
+  size: 125, 466
+  orig: 125, 466
+  offset: 0, 0
+  index: -1
+Arm2-1 B_L
+  rotate: true
+  xy: 1565, 683
+  size: 85, 451
+  orig: 85, 451
+  offset: 0, 0
+  index: -1
+Arm2-2 A_L
+  rotate: 270
+  xy: 747, 679
+  size: 88, 488
+  orig: 88, 488
+  offset: 0, 0
+  index: -1
+Arm2-2 B_L
+  rotate: true
+  xy: 1577, 398
+  size: 74, 469
+  orig: 74, 474
+  offset: 0, 5
+  index: -1
+Body cloth main_b
+  rotate: 270
+  xy: 1727, 768
+  size: 212, 318
+  orig: 212, 318
+  offset: 0, 0
+  index: -1
+Body cloth main_f
+  rotate: false
+  xy: 2, 1493
+  size: 451, 554
+  orig: 451, 557
+  offset: 0, 3
+  index: -1
+Body hojo parts_L
+  rotate: 180
+  xy: 450, 211
+  size: 169, 112
+  orig: 169, 112
+  offset: 0, 0
+  index: -1
+Body hojo parts_R
+  rotate: 270
+  xy: 867, 167
+  size: 146, 167
+  orig: 146, 169
+  offset: 0, 2
+  index: -1
+Body sakotsu
+  rotate: false
+  xy: 1101, 901
+  size: 151, 36
+  orig: 151, 36
+  offset: 0, 0
+  index: -1
+Botan A
+  rotate: false
+  xy: 404, 1532
+  size: 48, 93
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Botan B
+  rotate: false
+  xy: 1065, 53
+  size: 36, 132
+  orig: 36, 132
+  offset: 0, 0
+  index: -1
+Breast
+  rotate: 270
+  xy: 1329, 1680
+  size: 366, 314
+  orig: 366, 314
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 1924, 759
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 1543, 876
+  size: 78, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+Eri_R
+  rotate: 270
+  xy: 606, 272
+  size: 226, 255
+  orig: 226, 255
+  offset: 0, 0
+  index: -1
+Eri_b
+  rotate: false
+  xy: 775, 1236
+  size: 276, 76
+  orig: 276, 76
+  offset: 0, 0
+  index: -1
+Eri_l
+  rotate: false
+  xy: 1302, 806
+  size: 315, 301
+  orig: 316, 301
+  offset: 0, 0
+  index: -1
+Eriura
+  rotate: false
+  xy: 344, 1841
+  size: 116, 206
+  orig: 116, 207
+  offset: 0, 0
+  index: -1
+Eye ball shadow_L
+  rotate: false
+  xy: 1591, 368
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+Eye ball shadow_R
+  rotate: false
+  xy: 703, 819
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+Eye ball_L
+  rotate: false
+  xy: 1463, 90
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+Eye ball_R
+  rotate: false
+  xy: 1517, 1618
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+Eye cover_b_L
+  rotate: false
+  xy: 138, 44
+  size: 147, 94
+  orig: 147, 95
+  offset: 0, 1
+  index: -1
+Eye cover_b_R
+  rotate: false
+  xy: 1703, 66
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+Eye cover_u_L
+  rotate: false
+  xy: 636, 83
+  size: 150, 116
+  orig: 150, 118
+  offset: 0, 2
+  index: -1
+Eye cover_u_R
+  rotate: false
+  xy: 490, 74
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+Eye motion_C′_L
+  rotate: false
+  xy: 1239, 1032
+  size: 104, 42
+  orig: 104, 42
+  offset: 0, 0
+  index: -1
+Eye motion_C′_R
+  rotate: false
+  xy: 1478, 2018
+  size: 94, 29
+  orig: 97, 29
+  offset: 3, 0
+  index: -1
+Face cheek shy_L
+  rotate: false
+  xy: 1047, 556
+  size: 187, 135
+  orig: 187, 135
+  offset: 0, 0
+  index: -1
+Face cheek shy_R
+  rotate: true
+  xy: 362, 296
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+Face star_A
+  rotate: false
+  xy: 2029, 1978
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Face star_B
+  rotate: false
+  xy: 1118, 1498
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Hair back
+  rotate: 180
+  xy: 1411, 446
+  size: 194, 145
+  orig: 194, 145
+  offset: 0, 0
+  index: -1
+Hair back A_R
+  rotate: 270
+  xy: 693, 1487
+  size: 108, 423
+  orig: 108, 423
+  offset: 0, 0
+  index: -1
+Hair back B_R
+  rotate: true
+  xy: 1021, 1070
+  size: 155, 426
+  orig: 155, 428
+  offset: 0, 0
+  index: -1
+Hair back_L
+  rotate: 270
+  xy: 1232, 1201
+  size: 203, 404
+  orig: 203, 404
+  offset: 0, 0
+  index: -1
+Hair front A
+  rotate: false
+  xy: 1903, 1780
+  size: 134, 266
+  orig: 134, 267
+  offset: 0, 1
+  index: -1
+Hair front B
+  rotate: false
+  xy: 1991, 1171
+  size: 55, 214
+  orig: 55, 214
+  offset: 0, 0
+  index: -1
+Hair front_L
+  rotate: true
+  xy: 847, 372
+  size: 197, 337
+  orig: 197, 337
+  offset: 0, 0
+  index: -1
+Hair front_R
+  rotate: true
+  xy: 1470, 243
+  size: 104, 264
+  orig: 104, 264
+  offset: 0, 0
+  index: -1
+Hair hl A
+  rotate: false
+  xy: 1289, 1693
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+Hair hl B
+  rotate: true
+  xy: 2, 43
+  size: 128, 172
+  orig: 132, 173
+  offset: 4, 0
+  index: -1
+Hair shadow_L
+  rotate: false
+  xy: 1651, 773
+  size: 94, 145
+  orig: 95, 146
+  offset: 0, 1
+  index: -1
+Hair shadow_M
+  rotate: true
+  xy: 878, 883
+  size: 209, 244
+  orig: 210, 244
+  offset: 0, 0
+  index: -1
+Hair shadow_R
+  rotate: true
+  xy: 1011, 1212
+  size: 75, 219
+  orig: 75, 219
+  offset: 0, 0
+  index: -1
+Hair side A_L
+  rotate: true
+  xy: 252, 728
+  size: 160, 458
+  orig: 160, 459
+  offset: 0, 0
+  index: -1
+Hair side B_L
+  rotate: true
+  xy: 1449, 932
+  size: 270, 585
+  orig: 270, 586
+  offset: 0, 1
+  index: -1
+Hair side_L
+  rotate: 270
+  xy: 231, 906
+  size: 165, 576
+  orig: 167, 576
+  offset: 2, 0
+  index: -1
+Hair side_R
+  rotate: 270
+  xy: 1120, 722
+  size: 165, 580
+  orig: 165, 580
+  offset: 0, 0
+  index: -1
+Hand A fing1_L
+  rotate: false
+  xy: 1871, 1396
+  size: 125, 39
+  orig: 125, 39
+  offset: 0, 0
+  index: -1
+Hand A fing2_L
+  rotate: true
+  xy: 700, 137
+  size: 135, 173
+  orig: 135, 173
+  offset: 0, 0
+  index: -1
+Hand A fing3_L
+  rotate: false
+  xy: 828, 44
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+Hand A_L
+  rotate: false
+  xy: 998, 229
+  size: 244, 155
+  orig: 244, 156
+  offset: 0, 0
+  index: -1
+Hand B fing1_L
+  rotate: false
+  xy: 421, 1619
+  size: 53, 222
+  orig: 53, 223
+  offset: 0, 1
+  index: -1
+Hand B fing2_L
+  rotate: true
+  xy: 365, 1085
+  size: 35, 193
+  orig: 35, 193
+  offset: 0, 0
+  index: -1
+Hand B fing3_L
+  rotate: true
+  xy: 1857, 371
+  size: 38, 188
+  orig: 38, 188
+  offset: 0, 0
+  index: -1
+Hand B fing4_L
+  rotate: false
+  xy: 662, 1578
+  size: 59, 182
+  orig: 59, 183
+  offset: 0, 1
+  index: -1
+Hand B kou_L
+  rotate: true
+  xy: 28, 137
+  size: 79, 144
+  orig: 79, 144
+  offset: 0, 0
+  index: -1
+Hand B_L
+  rotate: true
+  xy: 1717, 302
+  size: 103, 329
+  orig: 118, 329
+  offset: 0, 0
+  index: -1
+Hand B′
+  rotate: 180
+  xy: 628, 504
+  size: 219, 208
+  orig: 219, 208
+  offset: 0, 0
+  index: -1
+Hand B′ fing
+  rotate: 180
+  xy: 372, 136
+  size: 198, 127
+  orig: 198, 127
+  offset: 0, 0
+  index: -1
+Hand C fing
+  rotate: true
+  xy: 678, 1553
+  size: 493, 339
+  orig: 493, 339
+  offset: 0, 0
+  index: -1
+Hand C fing1
+  rotate: false
+  xy: 149, 456
+  size: 247, 160
+  orig: 247, 160
+  offset: 0, 0
+  index: -1
+Hand C fing2_1
+  rotate: 180
+  xy: 811, 488
+  size: 261, 189
+  orig: 261, 189
+  offset: 0, 0
+  index: -1
+Hand C fing2_2
+  rotate: false
+  xy: 2, 387
+  size: 139, 219
+  orig: 139, 219
+  offset: 0, 0
+  index: -1
+Hand C fing3_1
+  rotate: true
+  xy: 1286, 513
+  size: 218, 277
+  orig: 218, 277
+  offset: 0, 0
+  index: -1
+Hand C fing3_2
+  rotate: false
+  xy: 1636, 1860
+  size: 104, 187
+  orig: 104, 192
+  offset: 0, 0
+  index: -1
+Hand C fing4_1
+  rotate: 270
+  xy: 491, 359
+  size: 172, 258
+  orig: 172, 258
+  offset: 0, 0
+  index: -1
+Hand C fing4_2
+  rotate: true
+  xy: 1899, 470
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+Hand C fing5_1
+  rotate: 270
+  xy: 1885, 145
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+Hand C fing5_2
+  rotate: true
+  xy: 1236, 628
+  size: 94, 131
+  orig: 100, 131
+  offset: 6, 0
+  index: -1
+Hand fing1-1_R
+  rotate: false
+  xy: 1898, 1998
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Hand fing1-2_R
+  rotate: false
+  xy: 958, 1461
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Hand fing2_R
+  rotate: false
+  xy: 189, 961
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+Hand fing3_R
+  rotate: false
+  xy: 933, 1094
+  size: 91, 54
+  orig: 91, 54
+  offset: 0, 0
+  index: -1
+Hand fing4_R
+  rotate: false
+  xy: 2, 989
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+Hand hiraki fing1_R
+  rotate: false
+  xy: 2, 1472
+  size: 62, 207
+  orig: 62, 207
+  offset: 0, 0
+  index: -1
+Hand hiraki fing2-3_R
+  rotate: true
+  xy: 626, 213
+  size: 119, 224
+  orig: 119, 224
+  offset: 0, 0
+  index: -1
+Hand hiraki fing4_R
+  rotate: true
+  xy: 952, 779
+  size: 41, 163
+  orig: 41, 163
+  offset: 0, 0
+  index: -1
+Hand hiraki tenohira_R
+  rotate: 270
+  xy: 1725, 487
+  size: 203, 320
+  orig: 203, 320
+  offset: 0, 0
+  index: -1
+Hand tekubi1_R
+  rotate: false
+  xy: 165, 1545
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Hand tekubi2_R
+  rotate: false
+  xy: 1828, 1939
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+Hand udegumi_L
+  rotate: false
+  xy: 2, 217
+  size: 157, 117
+  orig: 157, 119
+  offset: 0, 2
+  index: -1
+Head face
+  rotate: 180
+  xy: 995, 1628
+  size: 343, 419
+  orig: 343, 420
+  offset: 0, 1
+  index: -1
+Head ring_b
+  rotate: false
+  xy: 623, 1314
+  size: 623, 202
+  orig: 623, 202
+  offset: 0, 0
+  index: -1
+Head ring_f
+  rotate: true
+  xy: 432, 1375
+  size: 671, 244
+  orig: 671, 244
+  offset: 0, 0
+  index: -1
+Head rinkaku
+  rotate: false
+  xy: 331, 1946
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: -1
+Hiji_1
+  rotate: false
+  xy: 340, 1396
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+Hiji_2
+  rotate: false
+  xy: 1638, 79
+  size: 52, 110
+  orig: 52, 110
+  offset: 0, 0
+  index: -1
+Hiji_R
+  rotate: false
+  xy: 1019, 1606
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+Iris_L
+  rotate: false
+  xy: 671, 1922
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Iris_R
+  rotate: false
+  xy: 1478, 1452
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Katyusha
+  rotate: false
+  xy: 1436, 171
+  size: 286, 89
+  orig: 286, 89
+  offset: 0, 0
+  index: -1
+Kyoukin_L
+  rotate: false
+  xy: 1129, 924
+  size: 175, 143
+  orig: 175, 143
+  offset: 0, 0
+  index: -1
+Leg shadow_L
+  rotate: true
+  xy: 398, 588
+  size: 139, 253
+  orig: 139, 253
+  offset: 0, 0
+  index: -1
+Leg1_L
+  rotate: true
+  xy: 1620, 1051
+  size: 143, 371
+  orig: 143, 377
+  offset: 0, 6
+  index: -1
+Leg1_R
+  rotate: true
+  xy: 381, 834
+  size: 135, 395
+  orig: 135, 396
+  offset: 0, 0
+  index: -1
+Leg2_L
+  rotate: 270
+  xy: 2, 693
+  size: 121, 352
+  orig: 121, 352
+  offset: 0, 0
+  index: -1
+Leg2_R
+  rotate: true
+  xy: 2, 602
+  size: 103, 305
+  orig: 103, 305
+  offset: 0, 0
+  index: -1
+Mabuta parts B_L
+  rotate: false
+  xy: 1513, 1410
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Mabuta parts B_R
+  rotate: false
+  xy: 317, 1306
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+Matsuge b_L
+  rotate: false
+  xy: 605, 45
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+Matsuge b_R
+  rotate: false
+  xy: 1071, 898
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+Matsuge parts A_L
+  rotate: false
+  xy: 1061, 2033
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+Matsuge parts A_R
+  rotate: false
+  xy: 1810, 2028
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Matsuge parts B_L
+  rotate: false
+  xy: 1275, 919
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+Matsuge parts B_R
+  rotate: false
+  xy: 1787, 1614
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Matsuge parts C_L_new
+  rotate: false
+  xy: 1633, 896
+  size: 103, 48
+  orig: 113, 49
+  offset: 10, 1
+  index: -1
+Matsuge parts C_R
+  rotate: false
+  xy: 653, 1550
+  size: 89, 37
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+Matsuge u_L
+  rotate: false
+  xy: 323, 98
+  size: 119, 61
+  orig: 127, 61
+  offset: 8, 0
+  index: -1
+Matsuge u_R
+  rotate: false
+  xy: 1775, 641
+  size: 101, 45
+  orig: 101, 46
+  offset: 0, 1
+  index: -1
+Mayu_L
+  rotate: false
+  xy: 685, 1315
+  size: 132, 40
+  orig: 132, 41
+  offset: 0, 1
+  index: -1
+Mayu_L2
+  rotate: false
+  xy: 337, 1123
+  size: 132, 40
+  orig: 132, 41
+  offset: 0, 1
+  index: -1
+Mayu_L_shiwa
+  rotate: false
+  xy: 741, 2035
+  size: 16, 12
+  orig: 17, 18
+  offset: 0, 3
+  index: -1
+Mayu_R
+  rotate: false
+  xy: 757, 1478
+  size: 116, 16
+  orig: 116, 18
+  offset: 0, 1
+  index: -1
+Mayu_R2
+  rotate: false
+  xy: 1261, 1389
+  size: 116, 16
+  orig: 116, 18
+  offset: 0, 1
+  index: -1
+Munehimo_L
+  rotate: true
+  xy: 1018, 1461
+  size: 31, 176
+  orig: 31, 176
+  offset: 0, 0
+  index: -1
+Munehimo_R
+  rotate: true
+  xy: 1289, 65
+  size: 74, 172
+  orig: 74, 172
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 89, 287
+  size: 132, 183
+  orig: 132, 184
+  offset: 0, 1
+  index: -1
+Neck acce
+  rotate: true
+  xy: 782, 864
+  size: 131, 95
+  orig: 131, 96
+  offset: 0, 1
+  index: -1
+Neck munamoto
+  rotate: false
+  xy: 2, 795
+  size: 262, 199
+  orig: 263, 199
+  offset: 0, 0
+  index: -1
+Neck souboukin
+  rotate: 180
+  xy: 1241, 211
+  size: 204, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+Nose shadow
+  rotate: false
+  xy: 2010, 1999
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Nose_b
+  rotate: false
+  xy: 458, 2028
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+Nose_u
+  rotate: false
+  xy: 2, 1992
+  size: 7, 34
+  orig: 7, 34
+  offset: 0, 0
+  index: -1
+Obi
+  rotate: false
+  xy: 1638, 1194
+  size: 360, 203
+  orig: 360, 203
+  offset: 0, 0
+  index: -1
+Pupil_L
+  rotate: false
+  xy: 762, 2020
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Pupil_R
+  rotate: false
+  xy: 461, 1998
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Ribon_L
+  rotate: false
+  xy: 2, 1261
+  size: 377, 290
+  orig: 377, 290
+  offset: 0, 0
+  index: -1
+Ribon_R
+  rotate: false
+  xy: 319, 1109
+  size: 353, 292
+  orig: 353, 300
+  offset: 0, 0
+  index: -1
+Skirt A_b_L
+  rotate: true
+  xy: 1074, 414
+  size: 140, 273
+  orig: 140, 273
+  offset: 0, 0
+  index: -1
+Skirt A_b_R
+  rotate: true
+  xy: 1235, 334
+  size: 163, 261
+  orig: 163, 264
+  offset: 0, 3
+  index: -1
+Skirt A_f
+  rotate: 180
+  xy: 1502, 1377
+  size: 455, 279
+  orig: 455, 279
+  offset: 0, 0
+  index: -1
+Skirt B_b_L
+  rotate: false
+  xy: 89, 994
+  size: 278, 291
+  orig: 278, 291
+  offset: 0, 0
+  index: -1
+Skirt B_b_R
+  rotate: false
+  xy: 626, 1058
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+Skirt B_f_L
+  rotate: 270
+  xy: 1611, 1589
+  size: 457, 400
+  orig: 457, 400
+  offset: 0, 0
+  index: -1
+Skirt B_f_R
+  rotate: 180
+  xy: 630, 980
+  size: 390, 379
+  orig: 390, 382
+  offset: 0, 0
+  index: -1
+Skirt C_f_L
+  rotate: false
+  xy: 53, 1471
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+Skirt C_f_R
+  rotate: false
+  xy: 530, 1304
+  size: 112, 77
+  orig: 112, 77
+  offset: 0, 0
+  index: -1
+Skirt inner part
+  rotate: false
+  xy: 1118, 1404
+  size: 456, 303
+  orig: 456, 307
+  offset: 0, 4
+  index: -1
+Uncle b_L
+  rotate: false
+  xy: 1684, 81
+  size: 165, 140
+  orig: 166, 141
+  offset: 1, 1
+  index: -1
+Uncle b_R
+  rotate: false
+  xy: 1117, 74
+  size: 204, 146
+  orig: 204, 146
+  offset: 0, 0
+  index: -1
+Uncle f_L
+  rotate: false
+  xy: 1858, 76
+  size: 164, 125
+  orig: 164, 125
+  offset: 0, 0
+  index: -1
+Uncle f_R
+  rotate: 180
+  xy: 864, 81
+  size: 203, 148
+  orig: 203, 148
+  offset: 0, 0
+  index: -1
+Waki_L
+  rotate: false
+  xy: 223, 287
+  size: 133, 189
+  orig: 135, 189
+  offset: 2, 0
+  index: -1
+eye hl_L
+  rotate: false
+  xy: 968, 1925
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+eye hl_R
+  rotate: false
+  xy: 2, 2028
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1326, 139
+  size: 139, 74
+  orig: 139, 74
+  offset: 0, 0
+  index: -1
+mabuta_L
+  rotate: false
+  xy: 317, 1496
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+mabuta_R
+  rotate: false
+  xy: 1563, 1602
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1

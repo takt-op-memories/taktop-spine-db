@@ -1,0 +1,13 @@
+
+2029.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+arms_2029_bg01
+  rotate: false
+  xy: 2, 838
+  size: 2032, 1197
+  orig: 2032, 1197
+  offset: 0, 0
+  index: -1

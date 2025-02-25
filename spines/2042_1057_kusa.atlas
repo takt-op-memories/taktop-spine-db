@@ -1,0 +1,27 @@
+
+2042_1057_kusa.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 180
+  xy: 286, 1107
+  size: 1637, 581
+  orig: 1637, 581
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 1516
+  size: 1834, 408
+  orig: 1834, 408
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 1266
+  size: 376, 249
+  orig: 376, 249
+  offset: 0, 0
+  index: -1
